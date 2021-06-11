@@ -30,7 +30,8 @@ button {
   width: 200px;
   height: 50px;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 1.2rem;
+  font-size: 1.25rem;
+  font-weight: 700;
   color: #fff;
   background-color: #ff3482;
   border: none;
